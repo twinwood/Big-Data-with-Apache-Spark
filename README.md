@@ -1,2 +1,3 @@
-# RDD
-Resilient Distributed Datasets - Apache Spark
+# RDD - Resilient Distributed Datasets
+
+Scalable Machine Learning on Big Data using Apache Spark
